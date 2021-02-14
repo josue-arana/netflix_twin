@@ -1,2 +1,3 @@
 ## NETFLIX TWIN
-A copy of Netflix 
+
+Created a copy of Netflix using React and API calls from TMDb to show the latest movie trailers. — https://netflix‑twin‑beta.web.app
